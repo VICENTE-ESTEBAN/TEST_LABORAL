@@ -39,9 +39,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void multiplicar(){
-
-        int resultado = Integer.parseInt(etOpA.getText().toString()) * Integer.parseInt(etOpB.getText().toString());
-        tvResultado.setText(String.valueOf(resultado));
+        try {
+            int resultado = Integer.parseInt(etOpA.getText().toString()) * Integer.parseInt(etOpB.getText().toString());
+            tvResultado.setText(String.valueOf(resultado));
+        }catch (Exception ex)
+        {
+            tvResultado.setText(getResources().getText(R.string.number_format_error));
+        }
 
     }
 
