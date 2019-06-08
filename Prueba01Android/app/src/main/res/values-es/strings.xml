@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PruebaAndroid</string>
+    <string name="titulo">Arreglar errores</string>
+    <string name="opA">Primer número</string>
+    <string name="opB">Segundo número</string>
+    <string name="calc">Calcular</string>
+    <string name="name">Introduce nombre</string>
+    <string name="showText">Mostrar nombre</string>
+
+    <string name="navigateText">Navegar</string>
+    <string name="sum_text">Sumar</string>
+    <string name="difference_text">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+
+    <string name="number_format_error">Sólo se permiten números</string>
+
+    <string name="items_error">Ocurrió un error al cargar las noticias</string>
+
+    <string name="retry">Reintentar</string>
+</resources>

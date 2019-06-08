@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PruebaAndroid</string>
+    <string name="titulo">Fix issues</string>
+    <string name="opA">First number</string>
+    <string name="opB">Second number</string>
+    <string name="calc">Calculate</string>
+    <string name="name">Enter name</string>
+    <string name="showText">Show name</string>
+
+    <string name="navigateText">Navigate</string>
+    <string name="sum_text">Sum</string>
+    <string name="difference_text">Difference</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+
+    <string name="number_format_error">Only numbers allowed</string>
+    <string name="items_error">An error occurred while loading the feeds</string>
+    <string name="retry">Retry</string>
+</resources>
